@@ -5,4 +5,7 @@ idf_component_register(SRCS "hello_world_main.c" "connect_wifi.c"
                     REQUIRES nvs_flash
                     REQUIRES esp_wifi
                     REQUIRES mbedtls
+                    REQUIRES esp_https_ota
+                    REQUIRES json
+                    REQUIRES app_update
                     INCLUDE_DIRS "")
