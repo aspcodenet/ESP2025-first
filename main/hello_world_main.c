@@ -34,7 +34,7 @@
 // 2. Fixa en WIFI-koppling
 
 #define FIRMWARE_VERSION	0.5
-#define UPDATE_JSON_URL		"https://raw.githubusercontent.com/aspcodenet/project-name2/main/bin/firmware.json"
+#define UPDATE_JSON_URL		"https://raw.githubusercontent.com/aspcodenet/ESP2025-first/refs/heads/wifi/bin/firmware.json"
 
 
 
