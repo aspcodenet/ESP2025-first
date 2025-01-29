@@ -33,7 +33,7 @@
 // skapa en funktion som körs på annan TASK
 // 2. Fixa en WIFI-koppling
 
-#define FIRMWARE_VERSION	0.5
+#define FIRMWARE_VERSION	0.6
 #define UPDATE_JSON_URL		"https://raw.githubusercontent.com/aspcodenet/ESP2025-first/refs/heads/wifi/bin/firmware.json"
 
 
