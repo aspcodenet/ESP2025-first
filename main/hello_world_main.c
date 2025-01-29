@@ -86,7 +86,7 @@ void check_update_task(void *pvParameter) {
 	int cnt = 0;
 	while(1) {
         char buf[255];
-        sprintf(buf, "%s?token=%d",UPDATE_JSON_URL,cnt);
+        sprintf(buf, "%s",UPDATE_JSON_URL);
         cnt++;
 		printf("Looking for a new firmware at %s", buf);
 	
