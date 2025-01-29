@@ -1,4 +1,5 @@
 {
     "version": 0.6,
+    "test":0,
     "file": "https://github.com/aspcodenet/project-name2/raw/main/bin/project-name.bin"
 } 
